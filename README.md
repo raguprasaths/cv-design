@@ -1,7 +1,7 @@
 # cv-design
  Built this (cv-web-design) Using - Html - CSS -JS
 
- <img src"scrrenshot.png">
+ <img src="screenshot.png">
 
  +Directory Structure
 -------------------
